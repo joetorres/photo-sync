@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="photo-sync.auth/photo-sync.auth.csproj" />
+  <Project Path="photo-sync.bl/photo-sync.bl.csproj" />
+  <Project Path="photo-sync.data/photo-sync.data.csproj" />
+  <Project Path="photo-sync.model/photo-sync.model.csproj" />
+  <Project Path="photo-sync.ui/photo-sync.ui.csproj" />
+  <Project Path="photo-sync.util/photo-sync.util.csproj" />
+</Solution>
