@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../photo-sync.util/photo-sync.util.csproj" />
+    <ProjectReference Include="../photo-sync.model/photo-sync.model.csproj" />
+  </ItemGroup>
+
 </Project>
